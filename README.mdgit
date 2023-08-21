@@ -1,0 +1,1 @@
+"# Diamagnetic-Levitation-of-Graphite"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jarjc001/Diamagnetic-Levitation-of-Graphite.gitgit push -u origin main
