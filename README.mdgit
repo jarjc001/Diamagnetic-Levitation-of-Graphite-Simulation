@@ -1,1 +1,3 @@
-"# Diamagnetic-Levitation-of-Graphite"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/jarjc001/Diamagnetic-Levitation-of-Graphite.gitgit push -u origin main
+My final year project for Bsc Physics at the University of Bath. 
+"Simulating the levitation of Pyrolytic graphite above an array of N42 neodymium permanent magnets to study diamagnetic levitation"
+I'm only showing the final report and the data collected from the simulation with the graphs relating to them. 
